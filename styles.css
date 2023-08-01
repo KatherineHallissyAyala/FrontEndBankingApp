@@ -1,0 +1,14 @@
+.nav-link:hover{
+    color: white !important;
+    background-color: lightslategray;
+}
+
+.navbar-brand:hover{
+    color: white !important;
+    background-color: lightslategray;
+}
+
+.nav-link:active {
+    background-color: yellow !important;
+    color: black !important;
+  }
